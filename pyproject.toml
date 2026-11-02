@@ -2,7 +2,7 @@
 name = "dscp"
 version = "0.1.0"
 description = ""
-authors = ["samiribrh <samiribrahimov2277@gmail.com>"]
+authors = ["Samir Ibrahimov"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
